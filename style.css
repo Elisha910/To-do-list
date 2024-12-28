@@ -1,0 +1,30 @@
+.custom-input{
+    width: 600px;
+
+}
+.input-container{
+    display: flex;
+    justify-content: center;
+
+}
+.custom-list{
+    width: 600px;
+}
+.task-container{
+    display: flex;
+    justify-content: center;
+    margin: 5px 0;
+}
+li{
+    display: flex !important;
+    justify-content: space-between !important;
+
+}
+main{
+    min-height: 80vh;
+    
+}
+footer{
+    text-align: center;
+    font-size: 25px;
+}
